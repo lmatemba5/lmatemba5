@@ -16,7 +16,6 @@ I'am Lifa Matemba and i
  - Ruby
  
  Frameworks
- - Qt
  - JavaFX, partially swing + awt
  - Laravel
  - ReactJs, NextJs, partially VueJs
