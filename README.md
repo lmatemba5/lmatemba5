@@ -1,9 +1,9 @@
 # Hi, 
-I'am Lifa Matemba and i 
-- make Systems (Standalone + Websites)
-- like learning new technologies
-- am very sociable and flexible
-- am a muslim
+I'am Lifa Matemba 
+- a Systems developer
+- a tech enthusiast
+- a sociable and flexible and
+- a muslim
 
 # Facts
 
@@ -14,6 +14,7 @@ I'am Lifa Matemba and i
  - Javascript
  - Python
  - Ruby
+ - Android
  
  Frameworks
  - JavaFX, partially swing + awt
@@ -21,6 +22,7 @@ I'am Lifa Matemba and i
  - ReactJs, NextJs, partially VueJs
  - Django, DRF
  - Ruby on Rails
+ - React Native
 
 
 <!---
